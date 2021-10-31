@@ -1,6 +1,9 @@
 body {
   background:linear-gradient(to right, honeydew, #6fe7bd);
 }
+p {
+  text-align: justify;
+}
 ul {
   display: table;
   margin-left: 20%;

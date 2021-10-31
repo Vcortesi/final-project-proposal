@@ -1,0 +1,30 @@
+body {
+  background:linear-gradient(to right, honeydew, #6fe7bd);
+}
+ul {
+  display: table;
+  margin-left: 20%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15pt;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th {
+    font-size: 18px;
+  }
+
+ th, td{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    text-align: center;
+    margin-left: 70%;
+    border-bottom: 1px solid honeydew;
+  }
+  tr:hover {background-color: rgb(175, 173, 175);}
+
+.center {
+  text-align: center;
+}
